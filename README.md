@@ -4,4 +4,6 @@
 
 
 Languages and tools
-![PyQt5](https://img.shields.io/badge/-<PyQt5>-<#FF1493>??style=flat-square&logo=Qt)
+![PyQt5](https://img.shields.io/badge/-PyQt5-FF1493?style=flat-square&logo=qt)
+![SQl](https://img.shields.io/badge/-SQL-008B8B?style=flat-square&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-00FF00?style=flat-square&logo=python)
