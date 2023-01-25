@@ -12,6 +12,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyw1be&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href=#><img src="1.svg"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flexyw1be)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyw1be&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
