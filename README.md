@@ -1,7 +1,6 @@
 [![Header](https://github.com/flexyw1be/flexyw1be/blob/main/assets/tyyHGCSIvFEGwKjBO3pZtYCdZ5g-Z8uoN5G29jZxz37eqgXN02bUYcFGjj4BbdXgpBICp7BXwKMGmcWT-duLd9Hj.jpg)](https://github.com/flexyw1be/flexyw1be/blob/main/assets/tyyHGCSIvFEGwKjBO3pZtYCdZ5g-Z8uoN5G29jZxz37eqgXN02bUYcFGjj4BbdXgpBICp7BXwKMGmcWT-duLd9Hj.jpg)
 
 
-# I'm beginner programmer from Siberia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=EB98FF&center=true&width=500&height=100&lines=Languages+and+tools)](https://git.io/typing-svg)
 
