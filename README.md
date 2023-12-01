@@ -11,8 +11,27 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+
+### <a id="ach">achievements
+
+* winner of digital portfolio competition «Talent NTO» 23'
+
+* gold medal for excellent studying in Phys. Math. School of SFU 23'
+
+* finalist of the All-Russian Team Olympiad for Schoolchildren in Programming 22'
+
+* top3 in the open championship «Professionals of the future» in the direction of «Allow Case Cup» 22'
+
+### <a id="edu">education
+
+* main
+    * [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
+    * [Bacheloar of Information Systems and Technologies in TPU](https://abiturient.tpu.ru/program/2199717950) 27', Tomsk, Russia
+* extra
+    * [school of practical programming and data analysis](https://spb.hse.ru/fmcs/programming/) 23', Saint Petersburg, Russia
+    * [territory of initiative youth «Junior»](https://vk.com/timjunior) 23', Krasnoyarsk, Russia
+
 <a href=#><img src="1.svg"></a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexyw1be&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
