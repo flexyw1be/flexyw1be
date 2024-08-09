@@ -48,7 +48,7 @@
 ### <a id="me">my contacts
 * [codeforces](https://codeforces.com/profile/flexyw1be)
 * [leetcode](https://leetcode.com/u/flexyw1be/)
-* [telegram](
+
 
 
 <a href=#><img src="1.svg"></a>
