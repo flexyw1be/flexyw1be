@@ -38,7 +38,18 @@
     * [Bacheloar of Information Systems and Technologies in TPU](https://abiturient.tpu.ru/program/2199717950) 27', Tomsk, Russia
 * extra
     * [school of practical programming and data analysis](https://spb.hse.ru/fmcs/programming/) 23', Saint Petersburg, Russia
+    * [Yandex Lyceum python](https://lyceum.yandex.ru/) 21', Krasnoyarsk, Russia
     * [territory of initiative youth «Junior»](https://vk.com/timjunior) 23', Krasnoyarsk, Russia
+### <a id="projects">my projects
+
+* [Dental Projects](https://github.com/flexyw1be/DentalProject) - CRM system for dentistry
+* [AI-Tetris](https://github.com/flexyw1be/AI-tetris) - Tetris with AI based on genetic algorithm
+
+### <a id="me">my contacts
+* [codeforces](https://codeforces.com/profile/flexyw1be)
+* [leetcode](https://leetcode.com/u/flexyw1be/)
+* [telegram](
+
 
 <a href=#><img src="1.svg"></a>
 
