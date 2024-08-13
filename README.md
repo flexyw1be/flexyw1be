@@ -55,7 +55,4 @@
 
 
 
-<a href=#><img src="1.svg"></a>
-
-
 
