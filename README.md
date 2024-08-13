@@ -48,6 +48,10 @@
 ### <a id="me">my contacts
 * [codeforces](https://codeforces.com/profile/flexyw1be)
 * [leetcode](https://leetcode.com/u/flexyw1be/)
+* [hugging face](https://huggingface.co/flexyw1be)
+* [kaggle](https://www.kaggle.com/flexyw1be)
+* [telegram](https://t.me/dumbest_boy)
+* [mail](gmikhaylovv@gmal.ru)
 
 
 
