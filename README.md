@@ -35,6 +35,8 @@
 
 * top3 in the open championship «Professionals of the future» in the direction of «Allow Case Cup» 22'
 
+* winner of 1/4 ICPC NERC
+
 ### <a id="edu">education
 
 * main
@@ -46,8 +48,9 @@
     * [territory of initiative youth «Junior»](https://vk.com/timjunior) 23', Krasnoyarsk, Russia
 ### <a id="projects">my projects
 
-* [Dental Projects](https://github.com/flexyw1be/DentalProject) - CRM system for dentistry
-* [AI-Tetris](https://github.com/flexyw1be/AI-tetris) - Tetris with AI based on genetic algorithm
+* 🦷 [**Dental Projects**](https://github.com/flexyw1be/DentalProject) - CRM system for pharmacy based on PyQt5
+* 🎲 [**AI-Tetris**](https://github.com/flexyw1be/AI-tetris) - Tetris with AI based on genetic algorithm
+* 📦 [**CDEK Case**](https://github.com/TheFlowDEV/cdek_case) - product recognition system for the SDEK company based on Keras  
 
 ### <a id="me">my contacts
 * [codeforces](https://codeforces.com/profile/flexyw1be)
