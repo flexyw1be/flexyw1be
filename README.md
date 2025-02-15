@@ -1,6 +1,10 @@
 [![Header](https://github.com/flexyw1be/flexyw1be/blob/main/me.jpg)](https://github.com/flexyw1be/flexyw1be/blob/main/me.jpg)
 
 
+# Whats app! Меня зовут Глеб (flexyw1be)  
+
+### 💻 Студент 2 курса ТПУ, разработчик, менеджер и амбассадор.  
+
 ### programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
